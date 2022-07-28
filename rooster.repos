@@ -1,0 +1,25 @@
+repositories:
+  rooster/rooster_fleet_manager:
+    type: git
+    url: https://github.com/ROOSTER-fleet-management/rooster_fleet_manager.git
+    version: master
+  rooster/multi_robot_sim:
+    type: git
+    url: https://github.com/ROOSTER-fleet-management/multi_robot_sim.git
+    version: master
+  rooster/multi_ridgeback_gazebo:
+    type: git
+    url: https://github.com/ROOSTER-fleet-management/multi_ridgeback_gazebo.git
+    version: master
+  rooster/multi_ridgeback_nav:
+    type: git
+    url: https://github.com/ROOSTER-fleet-management/multi_ridgeback_nav.git
+    version: master  
+  rooster/multi_husky_gazebo:
+    type: git
+    url: https://github.com/ROOSTER-fleet-management/multi_husky_gazebo.git
+    version: master  
+  rooster/multi_husky_nav:
+    type: git
+    url: https://github.com/ROOSTER-fleet-management/multi_husky_nav.git
+    version: master 
